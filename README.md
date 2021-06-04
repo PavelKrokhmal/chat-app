@@ -12,12 +12,14 @@ Socket.io, Node.js, and React.js
 $ git clone https://github.com/PavelKrokhmal/chat-app
 $ cd ./chat-app
 
-### For client
+For client:
+
 $ cd ./client
 $ npm install
 
 
-### For server
+For server:
+
 $ cd ./sever
 $ npm install
 
