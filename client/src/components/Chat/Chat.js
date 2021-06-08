@@ -1,11 +1,13 @@
 import React from 'react'
 
-function Join() {
+import './Chat.css'
+
+function Chat() {
     return (
         <div>
-            Join 
+            Chat
         </div>
     )
 }
 
-export default Join
+export default Chat
