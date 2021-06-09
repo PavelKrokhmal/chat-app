@@ -10,7 +10,7 @@ Socket.io, Node.js, and React.js
 
 ![](https://github.com/PavelKrokhmal/media/blob/main/chat-app/Join.png)
 
-https://github.com/PavelKrokhmal/media/blob/main/chat-app/Chat.png
+![](https://github.com/PavelKrokhmal/media/blob/main/chat-app/Chat.png)
 
 ## Installation
 
