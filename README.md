@@ -1,45 +1,25 @@
 # Realtime Chat Application
 
-Socket.io, Node.js and React.js
+Stack: Socket.io, Node.js and React.js
 
-# Preview
+[JavaScript Mastery / Build and Deploy a Realtime Chat Application - Socket.io, Node.js, and React.js](https://www.youtube.com/watch?v=ZwFA3YMfkoc)
 
-![](https://github.com/PavelKrokhmal/media/blob/main/chat-app/Join.png)
-
-![](https://github.com/PavelKrokhmal/media/blob/main/chat-app/Chat.png)
-
-## Installation
-
+## Installation && Running
+Git:
 ```
-$ git clone https://github.com/PavelKrokhmal/chat-app
-$ cd ./chat-app
-
-For client:
-
-$ cd ./client
-$ npm install
-
-
-For server:
-
-$ cd ./sever
-$ npm install
-
+git clone https://github.com/PavelKrokhmal/chat-app
+cd ./chat-app
 ```
 
-## Running
-
-Run server using:
-
+Client:
 ```
-$ cd server
-$ npm run start
+cd ./client
+npm install
+npm run start
 ```
-
-
-Run client using:
-
+Server:
 ```
-$ cd client
-$ npm run start
+cd ./sever
+npm install
+npm run start
 ```
